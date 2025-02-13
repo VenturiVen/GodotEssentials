@@ -12,10 +12,13 @@ func _ready() -> void:
 	pass # Replace with function body.
 
 
-# func _process() is called every frame. 'delta' is the elapsed time since the previous frame.
-	# delta is used for making movement and time-based operations
-	# consistent across different frame rates. (https://www.dragonflydb.io/faq/godot-when-to-use-delta)
-func _process(delta: float) -> void:
+# func _process() is called every frame.
+func _process(_delta: float) -> void:
+	# Getting direction vectors
 	var direction= Input.get_vector("move_left", "move_right", "move_up", "move_down")
+	
+	# Calculating player velocity
 	velocity = direction * 300
+	
+	# Function unique to the CharacterBody2D node
 	move_and_slide()
