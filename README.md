@@ -1,7 +1,9 @@
 # GodotEssentials
-Project used for a Games Development Society workshop.
+Project used for a Games Development Society workshop. 
 
 I intended for this workshop to be engaging, interactable and fun. It goes over the very basics of Godot without being too much like a lecture, which is why there is not much emphasis on code. Hopefully people who were there for the workshop feel confident enough to dive in to Godot tutorials and start learning for themselves.
+
+You may notice the slides and game graphics are not very professional, and that's intentional!
 
 I asked people who attended this workshop what they thought and most had good things to say! Complete beginners said they liked the workshop and, after it ended, a couple people went ahead and made some of their own changes, and asked me a couple questions about code. 
 
