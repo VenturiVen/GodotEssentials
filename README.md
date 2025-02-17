@@ -9,6 +9,6 @@ People who had used Godot before said that the Godot workshop was too easy for t
 
 To me, this means that beginners came out of the workshop eager to do and learn more, so it was a success! 
 
--> [Link to slides used for this workshop](https://docs.google.com/presentation/d/1a0ccCeERlik74LgfVbGrDdc4MzLylOUgIwqwyJfFz-E/edit?usp=sharing 'Google Slides')
+-> [Link to slides used for this workshop (also made by me)](https://docs.google.com/presentation/d/1a0ccCeERlik74LgfVbGrDdc4MzLylOUgIwqwyJfFz-E/edit?usp=sharing 'Google Slides')
 
--> [Link to YouTube tutorial playlist I referenced to make this workshop](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHCXBpxbdsOByZ55Ez4bgF 'Youtube Playlist')
+-> [Link to YouTube tutorial playlist I referenced to make this workshop (by @NetNinja)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHCXBpxbdsOByZ55Ez4bgF 'Youtube Playlist')
